@@ -5,7 +5,7 @@ about:
   head: a07a751
   archived: false
   latestVersion: "cli-v0.16.0"
-  collectedAt: 2026-09-07T05:00:09Z
+  collectedAt: 2026-09-07T19:23:37Z
 timeline:
   created: 2017-03-30
   lastCommit: 2026-07-25
@@ -86,7 +86,7 @@ total:
   commit: 378
 ---
 path: /home/runner/.x-repo/github.com/dnote/dnote
-collectedAt: 2026-09-07T05:00:12Z
+collectedAt: 2026-09-07T19:23:39Z
 loc:
   Go:
     code: 26611
@@ -174,26 +174,26 @@ total:
   blanks: 6905
   files: 284
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/dnote/dnote
   commit: a07a751f9827ff0875233e05317b90de7b29fd55
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 3.4
 checks:
   - name: Code-Review
     score: 0
     reason: Found 0/25 approved changesets -- score normalized to 0
     details: null
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
   - name: Maintained
     score: 1
     reason: 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+    details: null
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
     details: null
   - name: Token-Permissions
     score: 0
@@ -204,13 +204,13 @@ checks:
       - 'Warn: no topLevel permission defined: .github/workflows/ci.yml:1'
       - 'Warn: no topLevel permission defined: .github/workflows/release-cli.yml:1'
       - 'Warn: no topLevel permission defined: .github/workflows/release-server.yml:1'
-  - name: CII-Best-Practices
-    score: 0
-    reason: no effort to earn an OpenSSF best practices badge detected
-    details: null
   - name: Binary-Artifacts
     score: 10
     reason: no binaries found in the repo
+    details: null
+  - name: CII-Best-Practices
+    score: 0
+    reason: no effort to earn an OpenSSF best practices badge detected
     details: null
   - name: Security-Policy
     score: 0
@@ -220,11 +220,6 @@ checks:
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
-  - name: Fuzzing
-    score: 0
-    reason: project is not fuzzed
-    details:
-      - 'Warn: no fuzzer integrations found'
   - name: Pinned-Dependencies
     score: 1
     reason: dependency not pinned by hash detected -- score normalized to 1
@@ -247,12 +242,22 @@ checks:
       - 'Info:   0 out of   4 third-party GitHubAction dependencies pinned'
       - 'Info:   0 out of   1 containerImage dependencies pinned'
       - 'Info:   1 out of   3 goCommand dependencies pinned'
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
   - name: License
     score: 10
     reason: license file detected
     details:
       - 'Info: project has a license file: LICENSE:0'
       - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
+  - name: Packaging
+    score: 10
+    reason: packaging workflow detected
+    details:
+      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release-server.yml:9'
   - name: Branch-Protection
     score: 3
     reason: branch protection is not maximal on development and all release branches
@@ -278,11 +283,6 @@ checks:
       - 'Warn: release artifact cli-v0.15.5 does not have provenance: https://api.github.com/repos/dnote/dnote/releases/257340507'
       - 'Warn: release artifact server-v3.0.0-rc4 does not have provenance: https://api.github.com/repos/dnote/dnote/releases/257340392'
       - 'Warn: release artifact cli-v0.15.4 does not have provenance: https://api.github.com/repos/dnote/dnote/releases/255631246'
-  - name: Packaging
-    score: 10
-    reason: packaging workflow detected
-    details:
-      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release-server.yml:9'
   - name: SAST
     score: 0
     reason: SAST tool is not run on all commits -- score normalized to 0
@@ -290,7 +290,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:13+00:00
+  collectedAt: 2026-09-07T19:23:40+00:00
   platform:
     darwin/arm64:
       name:  dnote_0.16.0_darwin_arm64.tar.gz
