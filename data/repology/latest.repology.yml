@@ -1,0 +1,124 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dnote
+  binname: dnote
+  visiblename: dnote
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: newest
+  summary: A simple command line notebook for programmers (cli)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dnote
+  binname: dnote-bash-completion
+  visiblename: dnote-bash-completion
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: newest
+  summary: Bash completions for dnote
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dnote
+  binname: dnote-doc
+  visiblename: dnote-doc
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: newest
+  summary: A simple command line notebook for programmers (cli) (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dnote
+  binname: dnote-zsh-completion
+  visiblename: dnote-zsh-completion
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: newest
+  summary: Zsh completions for dnote
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: dnote
+  visiblename: dnote
+  version: 0.16.0
+  origversion: null
+  status: newest
+  summary: Simple command-line notebook
+- repo: homebrew
+  srcname: dnote
+  visiblename: dnote
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Simple command-line notebook
+- repo: nix_stable_25_05
+  srcname: dnote
+  visiblename: dnote
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: Simple command line notebook for programmers
+  maintainers:
+    - 3264117476@qq.com
+  licenses:
+    - GPL-3.0-only
+    - AGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: dnote
+  visiblename: dnote
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: Simple command line notebook for programmers
+  maintainers:
+    - 3264117476@qq.com
+  licenses:
+    - GPL-3.0-only
+    - AGPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: dnote
+  visiblename: dnote
+  version: 0.16.0
+  origversion: null
+  status: newest
+  summary: Simple command line notebook for programmers
+  maintainers:
+    - 3264117476@qq.com
+  licenses:
+    - GPL-3.0-only
+    - AGPL-3.0-only
+- repo: nix_unstable
+  srcname: dnote
+  visiblename: dnote
+  version: 0.16.0
+  origversion: null
+  status: newest
+  summary: Simple command line notebook for programmers
+  maintainers:
+    - 3264117476@qq.com
+  licenses:
+    - GPL-3.0-only
+    - AGPL-3.0-only
+- repo: termux
+  srcname: dnote
+  binname: dnote
+  visiblename: dnote
+  version: 0.16.0
+  origversion: 1:0.16.0
+  status: newest
+  summary: A simple command line notebook for programmers
+  maintainers:
+    - ravener.anime@gmail.com
