@@ -23,7 +23,19 @@ x install dnote
 - **Latest**: `cli-v0.16.0` (2025-11-08)
 - **Last commit**: 2026-07-25
 - **Assets in release**: 8
-- **Published**: 2025-11-08T08:09:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dnote_0.16.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_checksums.txt) | 690 B | `other` |
+| [dnote_0.16.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_amd64.tar.gz) | 9.2 MiB | `native/darwin/x64` |
+| [dnote_0.16.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_arm64.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
+| [dnote_0.16.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_freebsd_amd64.tar.gz) | 7.9 MiB | `native/linux/x64` |
+| [dnote_0.16.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
+| [dnote_0.16.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
+| [dnote_0.16.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
+| [dnote_0.16.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for dnote lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dnote` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dnote.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dnote.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:18:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:03:30Z._

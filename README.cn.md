@@ -4,7 +4,7 @@
 
 A simple command line notebook
 
-![dnote](https://repo.x-cmd.io/dnote.svg)
+![dnote](https://repo.x-cmd.io/dnote.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install dnote
 - **最新版本**: `cli-v0.16.0` (2025-11-08)
 - **最近提交**: 2026-07-25
 - **Release 含资产**: 8 个
-- **发布时间**: 2025-11-08T08:09:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dnote_0.16.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_checksums.txt) | 690 B | `other` |
+| [dnote_0.16.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_amd64.tar.gz) | 9.2 MiB | `native/darwin/x64` |
+| [dnote_0.16.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_arm64.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
+| [dnote_0.16.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_freebsd_amd64.tar.gz) | 7.9 MiB | `native/linux/x64` |
+| [dnote_0.16.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
+| [dnote_0.16.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
+| [dnote_0.16.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
+| [dnote_0.16.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +84,4 @@ dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:32Z._
