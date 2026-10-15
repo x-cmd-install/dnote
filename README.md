@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,087 · **Forks**: 122 · **Open issues**: 238 · **Contributors**: 22
+- **Stars**: 3,088 · **Forks**: 122 · **Open issues**: 238 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last180d | 2026-04-17 | 0 | 2 | 3 | 0 | 0 | 2 |
-| 360d | 2025-10-19 | 6 | 18 | 3 | 0 | 2 | 16 |
-| last720d | 2024-10-24 | 10 | 42 | 3 | 2 | 2 | 42 |
+| 30d | 2026-09-15 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 1 | 3 | 0 | 0 | 1 |
+| last180d | 2026-04-18 | 0 | 2 | 3 | 0 | 0 | 2 |
+| 360d | 2025-10-20 | 4 | 16 | 3 | 0 | 2 | 16 |
+| last720d | 2024-10-25 | 10 | 42 | 3 | 2 | 2 | 42 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dnote lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:14:05Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:52:52Z._
