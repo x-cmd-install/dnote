@@ -14,13 +14,13 @@ x install dnote
 
 ## 代码洞察
 
-合计: **33,492** 行代码（覆盖前 5 种语言、共 **250** 个文件）。
+合计: **33,814** 行代码（覆盖前 5 种语言、共 **252** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 26,611 | 4,944 | 5,896 | 182 |
+| Go | 26,924 | 4,977 | 5,946 | 184 |
 | Sass | 4,013 | 464 | 617 | 22 |
-| Json | 1,026 | 0 | 1 | 13 |
+| Json | 1,027 | 0 | 1 | 13 |
 | Gohtml | 625 | 2 | 79 | 17 |
 | Sh | 545 | 100 | 140 | 16 |
 
@@ -42,41 +42,41 @@ x install dnote
 
 ## 发布
 
-- **最新版本**: `cli-v0.16.0` (2025-11-08)
-- **最近提交**: 2026-07-25
+- **最新版本**: `cli-v0.17.0` (2026-10-17)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 3,088 · **Fork**: 126 · **开放 issue**: 238 · **贡献者**: 22
+- **Star**: 3,089 · **Fork**: 129 · **开放 issue**: 238 · **贡献者**: 24
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 337 · **开放 PR**: 7 · **已关闭 issue**: 201 · **开放 issue**: 37 · **提交数**: 378
+- **发布数**: 84 · **已合并 PR**: 341 · **开放 PR**: 3 · **已关闭 issue**: 203 · **开放 issue**: 35 · **提交数**: 382
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-20 | 0 | 2 | 4 | 0 | 0 | 2 |
-| 360d | 2025-10-22 | 4 | 16 | 4 | 0 | 2 | 16 |
-| last720d | 2024-10-27 | 10 | 42 | 4 | 2 | 2 | 42 |
+| 30d | 2026-09-18 | 1 | 4 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-19 | 1 | 4 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-20 | 1 | 5 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-21 | 1 | 6 | 0 | 0 | 0 | 5 |
+| 360d | 2025-10-23 | 5 | 20 | 0 | 0 | 2 | 19 |
+| last720d | 2024-10-28 | 11 | 46 | 0 | 2 | 2 | 46 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dnote_0.16.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_checksums.txt) | 690 B | `other` |
-| [dnote_0.16.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_amd64.tar.gz) | 9.2 MiB | `native/darwin/x64` |
-| [dnote_0.16.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_arm64.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
-| [dnote_0.16.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_freebsd_amd64.tar.gz) | 7.9 MiB | `native/linux/x64` |
-| [dnote_0.16.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
-| [dnote_0.16.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
-| [dnote_0.16.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
-| [dnote_0.16.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
+| [dnote_0.17.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_checksums.txt) | 690 B | `other` |
+| [dnote_0.17.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_amd64.tar.gz) | 9.3 MiB | `native/darwin/x64` |
+| [dnote_0.17.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_arm64.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
+| [dnote_0.17.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_freebsd_amd64.tar.gz) | 8.7 MiB | `native/linux/x64` |
+| [dnote_0.17.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
+| [dnote_0.17.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
+| [dnote_0.17.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
+| [dnote_0.17.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:44:20Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:48:12Z._

@@ -14,13 +14,13 @@ x install dnote
 
 ## Code insight
 
-Total: **33,492** lines of code across **250** files in the top 5 languages.
+Total: **33,814** lines of code across **252** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 26,611 | 4,944 | 5,896 | 182 |
+| Go | 26,924 | 4,977 | 5,946 | 184 |
 | Sass | 4,013 | 464 | 617 | 22 |
-| Json | 1,026 | 0 | 1 | 13 |
+| Json | 1,027 | 0 | 1 | 13 |
 | Gohtml | 625 | 2 | 79 | 17 |
 | Sh | 545 | 100 | 140 | 16 |
 
@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `cli-v0.16.0` (2025-11-08)
-- **Last commit**: 2026-07-25
+- **Latest**: `cli-v0.17.0` (2026-10-17)
+- **Last commit**: 2026-10-17
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 3,088 · **Forks**: 126 · **Open issues**: 238 · **Contributors**: 22
+- **Stars**: 3,089 · **Forks**: 129 · **Open issues**: 238 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 337 · **Open PRs**: 7 · **Closed issues**: 201 · **Open issues**: 37 · **Commits**: 378
+- **Releases**: 84 · **Merged PRs**: 341 · **Open PRs**: 3 · **Closed issues**: 203 · **Open issues**: 35 · **Commits**: 382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 0 | 1 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-20 | 0 | 2 | 4 | 0 | 0 | 2 |
-| 360d | 2025-10-22 | 4 | 16 | 4 | 0 | 2 | 16 |
-| last720d | 2024-10-27 | 10 | 42 | 4 | 2 | 2 | 42 |
+| 30d | 2026-09-18 | 1 | 4 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-19 | 1 | 4 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-20 | 1 | 5 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-21 | 1 | 6 | 0 | 0 | 0 | 5 |
+| 360d | 2025-10-23 | 5 | 20 | 0 | 0 | 2 | 19 |
+| last720d | 2024-10-28 | 11 | 46 | 0 | 2 | 2 | 46 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dnote_0.16.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_checksums.txt) | 690 B | `other` |
-| [dnote_0.16.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_amd64.tar.gz) | 9.2 MiB | `native/darwin/x64` |
-| [dnote_0.16.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_darwin_arm64.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
-| [dnote_0.16.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_freebsd_amd64.tar.gz) | 7.9 MiB | `native/linux/x64` |
-| [dnote_0.16.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
-| [dnote_0.16.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
-| [dnote_0.16.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
-| [dnote_0.16.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.16.0/dnote_0.16.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
+| [dnote_0.17.0_checksums.txt](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_checksums.txt) | 690 B | `other` |
+| [dnote_0.17.0_darwin_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_amd64.tar.gz) | 9.3 MiB | `native/darwin/x64` |
+| [dnote_0.17.0_darwin_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_arm64.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
+| [dnote_0.17.0_freebsd_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_freebsd_amd64.tar.gz) | 8.7 MiB | `native/linux/x64` |
+| [dnote_0.17.0_linux_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_amd64.tar.gz) | 8.8 MiB | `native/linux/x64` |
+| [dnote_0.17.0_linux_arm.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm.tar.gz) | 6.2 MiB | `native/linux/arm` |
+| [dnote_0.17.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
+| [dnote_0.17.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for dnote lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:44:19Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:48:12Z._
