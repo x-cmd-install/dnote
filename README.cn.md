@@ -26,12 +26,12 @@ x install dnote
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.4 / 10**
+总评分: **3.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install dnote
 
 ## 流行度
 
-- **Star**: 3,087 · **Fork**: 125 · **开放 issue**: 238 · **贡献者**: 24
+- **Star**: 3,088 · **Fork**: 123 · **开放 issue**: 238 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install dnote
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-22 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-23 | 1 | 5 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-24 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 360d | 2025-10-26 | 5 | 17 | 0 | 0 | 2 | 16 |
-| last720d | 2024-10-31 | 11 | 46 | 0 | 2 | 2 | 46 |
+| 30d | 2026-09-22 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-23 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-24 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-25 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 360d | 2025-10-27 | 5 | 16 | 0 | 0 | 1 | 16 |
+| last720d | 2024-11-01 | 11 | 46 | 0 | 2 | 2 | 46 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:06:23Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:03:56Z._
