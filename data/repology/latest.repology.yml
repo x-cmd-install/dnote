@@ -103,9 +103,9 @@
 - repo: nix_unstable
   srcname: dnote
   visiblename: dnote
-  version: 0.16.0
+  version: 0.17.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Simple command line notebook for programmers
   maintainers:
     - 3264117476@qq.com
