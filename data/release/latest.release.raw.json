@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 690,
       "digest": "sha256:0bff26ded08c0996469880bae87b752297467663f57cc7b7ee32ecde1379f08b",
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2026-10-17T19:20:05Z",
       "updated_at": "2026-10-17T19:20:06Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9715142,
       "digest": "sha256:c1c4a8cd54a415fbd43c3bad85e965d08e825b5c8fd4cc280adeab3c7a8ca83c",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-10-17T19:20:04Z",
       "updated_at": "2026-10-17T19:20:05Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8973717,
       "digest": "sha256:5061aa3f1b957a19bc1a36d27e5cc8c20460ef439c638e4d95ffe31f9832a055",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-10-17T19:20:04Z",
       "updated_at": "2026-10-17T19:20:05Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9096100,
       "digest": "sha256:ad19500efb18fb473e9813dff0125aab5273cc94ab94e0c4427a92ba0c6b82d0",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-10-17T19:20:04Z",
       "updated_at": "2026-10-17T19:20:05Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_freebsd_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9271097,
       "digest": "sha256:e128cda61b966524607aca27b72696c7c4bbac45ecb54a309bea098fff7a9bda",
-      "download_count": 103,
+      "download_count": 108,
       "created_at": "2026-10-17T19:20:04Z",
       "updated_at": "2026-10-17T19:20:05Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6486453,
       "digest": "sha256:8b084e888edf17c6c6589232662298be7776cd3389a27152ca6cf2bd0e910015",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-17T19:20:04Z",
       "updated_at": "2026-10-17T19:20:05Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8687980,
       "digest": "sha256:4ae7b46de86a17c8b5611b2062004e34b6b6cfde7aa0779858b852c60a7d71bd",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-10-17T19:20:05Z",
       "updated_at": "2026-10-17T19:20:06Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7009990,
       "digest": "sha256:afd2b95833b5791f2b3b464e1a14c95e128a851b34bcc6cf2d2361a0ee10e1d4",
-      "download_count": 45,
+      "download_count": 48,
       "created_at": "2026-10-17T19:20:05Z",
       "updated_at": "2026-10-17T19:20:06Z",
       "browser_download_url": "https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz"
