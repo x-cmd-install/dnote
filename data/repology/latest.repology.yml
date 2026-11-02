@@ -1,10 +1,29 @@
+- repo: nix_stable_25_05
+  srcname: dnote
+  visiblename: dnote
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: Simple command line notebook for programmers
+  maintainers:
+    - 3264117476@qq.com
+  licenses:
+    - GPL-3.0-only
+    - AGPL-3.0-only
+- repo: homebrew
+  srcname: dnote
+  visiblename: dnote
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Simple command-line notebook
 - repo: alpine_edge
   subrepo: testing
   srcname: dnote
   binname: dnote
   visiblename: dnote
   version: 0.16.0
-  origversion: 0.16.0-r6
+  origversion: 0.16.0-r7
   status: outdated
   summary: A simple command line notebook for programmers (cli)
   maintainers:
@@ -17,7 +36,7 @@
   binname: dnote-bash-completion
   visiblename: dnote-bash-completion
   version: 0.16.0
-  origversion: 0.16.0-r6
+  origversion: 0.16.0-r7
   status: outdated
   summary: Bash completions for dnote
   maintainers:
@@ -30,7 +49,7 @@
   binname: dnote-doc
   visiblename: dnote-doc
   version: 0.16.0
-  origversion: 0.16.0-r6
+  origversion: 0.16.0-r7
   status: outdated
   summary: A simple command line notebook for programmers (cli) (documentation)
   maintainers:
@@ -43,7 +62,7 @@
   binname: dnote-zsh-completion
   visiblename: dnote-zsh-completion
   version: 0.16.0
-  origversion: 0.16.0-r6
+  origversion: 0.16.0-r7
   status: outdated
   summary: Zsh completions for dnote
   maintainers:
@@ -57,25 +76,6 @@
   origversion: null
   status: newest
   summary: Simple command-line notebook
-- repo: homebrew
-  srcname: dnote
-  visiblename: dnote
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Simple command-line notebook
-- repo: nix_stable_25_05
-  srcname: dnote
-  visiblename: dnote
-  version: 0.15.1
-  origversion: null
-  status: outdated
-  summary: Simple command line notebook for programmers
-  maintainers:
-    - 3264117476@qq.com
-  licenses:
-    - GPL-3.0-only
-    - AGPL-3.0-only
 - repo: nix_stable_25_11
   srcname: dnote
   visiblename: dnote
