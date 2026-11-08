@@ -1,7 +1,7 @@
-- repo: nix_stable_25_05
+- repo: nix_stable_26_05
   srcname: dnote
   visiblename: dnote
-  version: 0.15.1
+  version: 0.16.0
   origversion: null
   status: outdated
   summary: Simple command line notebook for programmers
@@ -10,21 +10,14 @@
   licenses:
     - GPL-3.0-only
     - AGPL-3.0-only
-- repo: homebrew
-  srcname: dnote
-  visiblename: dnote
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Simple command-line notebook
 - repo: alpine_edge
   subrepo: testing
   srcname: dnote
   binname: dnote
   visiblename: dnote
-  version: 0.16.0
-  origversion: 0.16.0-r7
-  status: outdated
+  version: 0.17.0
+  origversion: 0.17.0-r0
+  status: newest
   summary: A simple command line notebook for programmers (cli)
   maintainers:
     - qaq@qaq.land
@@ -35,9 +28,9 @@
   srcname: dnote
   binname: dnote-bash-completion
   visiblename: dnote-bash-completion
-  version: 0.16.0
-  origversion: 0.16.0-r7
-  status: outdated
+  version: 0.17.0
+  origversion: 0.17.0-r0
+  status: newest
   summary: Bash completions for dnote
   maintainers:
     - qaq@qaq.land
@@ -48,9 +41,9 @@
   srcname: dnote
   binname: dnote-doc
   visiblename: dnote-doc
-  version: 0.16.0
-  origversion: 0.16.0-r7
-  status: outdated
+  version: 0.17.0
+  origversion: 0.17.0-r0
+  status: newest
   summary: A simple command line notebook for programmers (cli) (documentation)
   maintainers:
     - qaq@qaq.land
@@ -61,9 +54,9 @@
   srcname: dnote
   binname: dnote-zsh-completion
   visiblename: dnote-zsh-completion
-  version: 0.16.0
-  origversion: 0.16.0-r7
-  status: outdated
+  version: 0.17.0
+  origversion: 0.17.0-r0
+  status: newest
   summary: Zsh completions for dnote
   maintainers:
     - qaq@qaq.land
@@ -76,7 +69,14 @@
   origversion: null
   status: newest
   summary: Simple command-line notebook
-- repo: nix_stable_25_11
+- repo: homebrew
+  srcname: dnote
+  visiblename: dnote
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Simple command-line notebook
+- repo: nix_stable_25_05
   srcname: dnote
   visiblename: dnote
   version: 0.15.1
@@ -88,10 +88,10 @@
   licenses:
     - GPL-3.0-only
     - AGPL-3.0-only
-- repo: nix_stable_26_05
+- repo: nix_stable_25_11
   srcname: dnote
   visiblename: dnote
-  version: 0.16.0
+  version: 0.15.1
   origversion: null
   status: outdated
   summary: Simple command line notebook for programmers
