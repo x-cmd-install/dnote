@@ -48,7 +48,7 @@ x install dnote
 
 ## 流行度
 
-- **Star**: 3,091 · **Fork**: 123 · **开放 issue**: 238 · **贡献者**: 24
+- **Star**: 3,092 · **Fork**: 123 · **开放 issue**: 238 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install dnote
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-08 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-09 | 1 | 4 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-11 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 360d | 2025-11-12 | 1 | 9 | 0 | 0 | 1 | 9 |
-| last720d | 2024-11-17 | 11 | 46 | 0 | 2 | 2 | 46 |
+| 30d | 2026-10-09 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-09 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-10 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-12 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 360d | 2025-11-13 | 1 | 9 | 0 | 0 | 1 | 9 |
+| last720d | 2024-11-18 | 11 | 46 | 0 | 2 | 2 | 46 |
 
 ## Release 资产
 
@@ -80,13 +80,13 @@ x install dnote
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/dnote) 上共有 **11** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/dnote) 上共有 **11** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.17.0` | ✅ latest |
 | Nix unstable | `0.17.0` | ✅ latest |
-| Alpine edge | `0.16.0` | ⚠️ outdated |
+| Alpine edge | `0.17.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -97,4 +97,4 @@ dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:20:25Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:23:21Z._
