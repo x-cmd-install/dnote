@@ -26,12 +26,12 @@ x install dnote
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.2 / 10**
+总评分: **3.1 / 10**
 
 评分最低的几项:
 
 - **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -58,12 +58,12 @@ x install dnote
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-25 | 1 | 3 | 0 | 0 | 2 | 3 |
-| 90d | 2026-08-26 | 1 | 3 | 0 | 0 | 2 | 3 |
-| last180d | 2026-05-28 | 1 | 5 | 0 | 0 | 2 | 5 |
-| 360d | 2025-11-29 | 1 | 7 | 0 | 0 | 2 | 8 |
-| last720d | 2024-12-04 | 11 | 45 | 0 | 2 | 4 | 46 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-09-26 | 1 | 3 | 0 | 0 | 2 | 3 |
+| 90d | 2026-08-27 | 1 | 3 | 0 | 0 | 2 | 3 |
+| last180d | 2026-05-29 | 1 | 5 | 0 | 0 | 2 | 5 |
+| 360d | 2025-11-30 | 1 | 7 | 0 | 0 | 2 | 8 |
+| last720d | 2024-12-05 | 11 | 45 | 0 | 2 | 4 | 46 |
 
 ## Release 资产
 
@@ -78,16 +78,6 @@ x install dnote
 | [dnote_0.17.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
 | [dnote_0.17.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dnote) 上共有 **11** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.17.0` | ✅ latest |
-| Nix unstable | `0.17.0` | ✅ latest |
-| Alpine edge | `0.17.0` | ✅ latest |
-
 ## 改进这些数据
 
 dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dnote` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +87,4 @@ dnote 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:24:12Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:06:08Z._
