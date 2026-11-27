@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,099 · **Forks**: 122 · **Open issues**: 240 · **Contributors**: 23
+- **Stars**: 3,099 · **Forks**: 124 · **Open issues**: 240 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 340 · **Open PRs**: 3 · **Closed issues**: 203 · **Open issues**: 37 · **Commits**: 382
+- **Releases**: 84 · **Merged PRs**: 340 · **Open PRs**: 4 · **Closed issues**: 203 · **Open issues**: 37 · **Commits**: 382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-27 | 1 | 3 | 0 | 0 | 2 | 3 |
-| 90d | 2026-08-28 | 1 | 3 | 0 | 0 | 2 | 3 |
-| last180d | 2026-05-30 | 1 | 5 | 0 | 0 | 2 | 5 |
-| 360d | 2025-12-01 | 1 | 7 | 0 | 0 | 2 | 8 |
-| last720d | 2024-12-06 | 11 | 45 | 0 | 2 | 4 | 46 |
+| 30d | 2026-10-28 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-09-28 | 1 | 3 | 1 | 0 | 2 | 3 |
+| 90d | 2026-08-29 | 1 | 3 | 1 | 0 | 2 | 3 |
+| last180d | 2026-05-31 | 1 | 5 | 1 | 0 | 2 | 5 |
+| 360d | 2025-12-02 | 1 | 7 | 1 | 0 | 2 | 8 |
+| last720d | 2024-12-07 | 11 | 45 | 1 | 2 | 4 | 46 |
 
 ## Release assets
 
@@ -78,6 +78,16 @@ Lowest-scoring checks:
 | [dnote_0.17.0_linux_arm64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_linux_arm64.tar.gz) | 8.3 MiB | `native/linux/arm64` |
 | [dnote_0.17.0_windows_amd64.tar.gz](https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz) | 6.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/dnote). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.17.0` | ✅ latest |
+| Nix unstable | `0.17.0` | ✅ latest |
+| Alpine edge | `0.17.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dnote lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dnote` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +97,4 @@ Install metadata for dnote lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:15:15Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:56:41Z._
